@@ -3,15 +3,14 @@
 
 - 🔭 I’m currently working on **Pl.AI.list**
 
-- 🌱 I’m currently learning **DevOps (GCP)**
+- 🌱 I’m currently learning **MLops, AutoML,**
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
 - 💬 Ask me about **data science and data in general**
 
-- 📫 How to reach me **jeromedrescig@gmail.com**
+- 📫 How to reach me **drescigj@gmail.com**
 
-- ⚡ Fun fact **I wish I was funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
