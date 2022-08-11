@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jérôme Drescig</h1>
 <h3 align="center">A freelance data scientist from Belgium</h3>
 
-- 🔭 I’m currently working on **Pl.AI.list**
-
-- 🌱 I’m currently learning **MLops, AutoML,**
-
-- 👯 I’m looking to collaborate on **Data Science projects**
-
-- 💬 Ask me about **data science and data in general**
+- 🔭 I’m currently working on developping my start up
 
 - 📫 How to reach me **drescigj@gmail.com**
 
