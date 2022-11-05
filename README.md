@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jérôme Drescig</h1>
-<h3 align="center">A freelance data scientist from Belgium</h3>
-
-- 🔭 I’m currently working on developping my start up
+<h3 align="center">CTO in music-tech</h3>
 
 - 📫 How to reach me **drescigj@gmail.com**
 
