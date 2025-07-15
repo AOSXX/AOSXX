@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jérôme Drescig</h1>
-<h3 align="center">CTO in music-tech</h3>
+<h3 align="center">Data Engineer</h3>
 
 - 📫 How to reach me **drescigj@gmail.com**
 
